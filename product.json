@@ -3,12 +3,12 @@
 		{
 			"name": "Vietnamese Summer Rolls",
 			"amount": 12.95,
-			"image": "https://unsplash.com/photos/JB_czvFkn4w"
+			"image": "https://github.com/stoic-llama/leaverou.github.io/summer-rolls.jpg"
 		},
     {
 			"name": "Spicy Chicken Wings",
 			"amount": 14.99,
-			"image": "https://unsplash.com/photos/v5yVy3IhSRU"
+			"image": "https://github.com/stoic-llama/leaverou.github.io/chicken-wings.jpg"
 		}
 	]
 }
