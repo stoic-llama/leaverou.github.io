@@ -14,6 +14,10 @@
 			"image": "https://i.imgur.com/XXBZzmJ.jpeg",
 			"name": "Pho",
 			"amount": "8.49"
+		},
+		{
+			"name": "New Product",
+			"amount": "Test Desc"
 		}
 	]
 }
