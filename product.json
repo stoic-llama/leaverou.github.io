@@ -12,12 +12,8 @@
 		},
 		{
 			"image": "https://i.imgur.com/XXBZzmJ.jpeg",
-			"name": "Pho",
+			"name": "Spicy Pho",
 			"amount": "8.49"
-		},
-		{
-			"name": "New Product",
-			"amount": "Test Desc"
 		}
 	]
 }
